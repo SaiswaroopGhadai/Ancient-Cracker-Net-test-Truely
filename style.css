@@ -1,0 +1,9 @@
+body {
+    font-size: 15pt;
+}
+.header{
+ text-align: center;
+ font-family: 'Bebas Neue', cursive;font-family: 'Merriweather', serif;font-family: 'Work Sans', sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Merriweather:ital,wght@1,900&family=Work+Sans:ital,wght@0,400;1,900&display=swap');
